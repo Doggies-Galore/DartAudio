@@ -1,0 +1,19 @@
+message109 and message203 - Ticket required/Fare enforcement notices
+message157 - "Thanks for riding DART."
+Info24 - "Thank you for riding DART."
+Info06 and Info10 - "This is the"
+Info07 - "Final destination:"
+Info12 - "Next stop:"
+Info13 - "Arriving:"
+Info17 - "Now arriving:"
+Info18 and Info19 - "Doors will open to the [left/right]."
+Info25 - "Please remember to take all personal belongings."
+Info26 - "This train is out of service."
+Info34-37 - "[Color] Line"
+Info196 - "Two"
+Info121 - "cars"
+Info208 - "Two cars." :hahawhat: 
+Info175 - "Six cars" 👀 
+Info160 - "Please keep feet off seats" :ADPikaPolice1: 
+
+It looks like a bunch of train delay messages start with messageSD
