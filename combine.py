@@ -30,6 +30,6 @@ def combine_audio_files(input_dir, output_file, target_size_mb=100, verbose=True
         print("Audio files combined and compressed successfully!")
 
 # Example usage:
-input_directory = "audio"
+input_directory = "DART"
 output_file = "all.mp3"
 combine_audio_files(input_directory, output_file)
