@@ -1,0 +1,3496 @@
+file 'DART/Safe04.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/MG800653.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/ROYAL LANE STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M606.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/EBJ UNION STATIONnext.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/Green_Line_Annoucement_07092022.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/CAMP WISDOM STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/TRINITY MILLS RAIL STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/Safe01in.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/MG800652.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/Safe05.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/CITYPLACE-UPTOWN STATIONold.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/WEST IRVING STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/train to.wav'
+timestamp: 2024-05-01 20:33:14
+file 'DART/FOREST LN STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M638.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/Safe06.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/MG800651.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/WESTMORELAND STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/Safe02.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/LOVERS LANE STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NL_Kindness_Rail.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/T&P STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NYEfree2.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/PARK LANE STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/zoom01.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NYE2023_Spanish_Rail.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/HAMPTON STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/BELT LINE STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/LAWNVIEW STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NYEfree3.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/RED.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/HATCHER STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/GREENline.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/Safe03.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/MG800654.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/LEDBETTER STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/Safe01.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/MLK STATIONa.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/LBJ - CENTRAL STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/SMU-MOCKINGBIRD STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/IRVING CONVENTION CENTER STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/GALATYN PARK STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/INWOOD-LOVE FIELD STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/T&P STATION_OLD_VERSION1.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/VERDE.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/RICHLAND HILLS STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/CITYLINE-BUSH STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/DALLAS COLLEGE NORTHLAKE CAMPUS STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/AutomaticDoorsForYourSafety.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/SPECIAL.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/AZUL.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/BAYLOR STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/WEST IRVING STATIONnext.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/AKARD STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/GREEN.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/ORANGE.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/DOWNTOWN GARLAND STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/DALLAS ZOO STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M504.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/CEDARS STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M511.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NL_Safety_Rail.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/SMU-MOCKINGBIRD STATION-test.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/BACHMAN STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M529.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/PEARL-ARTS DISTRICT STATIONold.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M528.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/line108.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/CITYPLACE-UPTOWN STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/Safe07d.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/T&P STATIONnext.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/TYLER VERNON STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/SMU-MOCKINGBIRD STATION_old_name.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/FAIR PARK STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/DOWNTOWN CARROLLTON STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/SPRING VALLEY STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/CONVENTION CENTER STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/ARAPAHO CENTER STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/SocialDistancing02.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/DFW AIRPORT STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/VA MEDICAL CENTER STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/MG83PEX.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/BLUE.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/line106.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/EBJ UNION STATION_OLD_VERSION2.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M526.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M532.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/WEST END STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/BURBANK STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/DOWNTOWN PLANO STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/87000.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/alert.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M533.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M527.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/WALNUT HILL-DENTON STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/line107.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/Social_203.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/line103se.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NORTHLAKE COLLEGE STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/8TH & CORINTH STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/line105.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/EBJ UNION STATION_OLD_VERSION1.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M531.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M525.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NL_40thAnniversary_Rail.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M524.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NewBusNetwork1-27gennyGeneric_JE.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M530.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/line104.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/FARMERS BRANCH STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/MLK STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/alert3.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/BUCKNER STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NL_LessTravelTime_Rail.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/LAKE HIGHLANDS STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M534.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M508.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/KIEST STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/UNT DALLAS STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/DEEP ELLUM STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M509.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M521.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/line101.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NORTH CARROLLTON-FRANKFORD STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/LAS COLINAS URBAN CENTER STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/ST PAUL STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/line103.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NL_Thanks_Rail.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M523.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/LAKE JUNE STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/SB_Holiday_Rail.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M522.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/FOREST - JUPITER STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/line102.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/mg800601.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/CITYLINE-BUSH STATION_old_version1.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/Safe01out.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/I345M161.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/NYE2023_English_Rail.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/M632.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/PARKER ROAD STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/29826.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/I345M163.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/HH_Winterland_Rail.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/DOWNTOWN ROWLETT STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/WALNUT HILL STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/MORRELL STATION.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/line102se.mp3'
+timestamp: 2024-05-01 20:33:14
+file 'DART/VICTORY STATIONnext.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/I345M162.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/UNIVERSITY OF DALLAS STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/ROJA.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/M631.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/EBJ UNION STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/RICHLAND HILLS STATIONnext.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/CITYLINE-BUSH STATION_new_version2.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/M621.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/ORANGEline.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/MARKET CENTER STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/NARANJA.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/PEARL-ARTS DISTRICT STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/YellowButton1.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/BLUEline.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/M608.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/MG800675.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/LBJ - SKILLMAN STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/MG800677.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/M636.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/WHITE ROCK STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/ILLINOIS TC-STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/line515se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/VICTORY STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/RAIL25.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/MG800676.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info508Cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info216a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info161.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info175.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info149.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info17Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info217.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info203.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info159se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info202.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info111Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info148.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info174.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info160.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info164se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info510Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info121Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info216Dse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info216b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info176.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info162.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info222se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info200.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info214.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info215.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info201.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info120Bse-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info188.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info163.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info508Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info177.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info206se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info173.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info167.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info198.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info202se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info205.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info211.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info210.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info204.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info162se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info165a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info199.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info172.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info506Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info506Cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info158.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info164.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info170.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info118se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info212.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info206.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info200se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info207.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info213.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info197bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info165b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info171.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info159.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info314.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info116.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info167se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info510Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info197b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info18.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info30.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info24.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info111Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info25.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info31.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info103b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info19.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info117.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info315.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info301.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info303.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info115.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info101.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info129.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info197a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info27.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info33.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info508Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info221se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info510Cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info32.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info26.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info103a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info128.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info114.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info158se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info302.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info312.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info216Cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info306.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info161se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info138.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info110.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info104.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info22.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info119se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info36.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info102a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info506Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info159b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info509B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info178se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info515.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info159c.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info509C.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info501.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info37.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info23.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info196a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info105.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info111.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info139.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info201se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info307.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info313.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info305.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info311.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info197ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info107.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info113.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info196c.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info10BspecialSpanish.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info35.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info21.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info102b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info09.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info503.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info509A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info502.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info08.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info20.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info34.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info196b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info112.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info106.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info310.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info304.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info163se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info505Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info309.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info510B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info123.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info137.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info108Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info11.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info120Bs-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info05.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info527.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info509Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info526.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info04.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info10.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info120Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info530A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info136.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info122.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info510C.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info308.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info522se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info510A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info511E.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info134.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info120.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info108.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info511Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info174se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info06.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info12.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info524.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info525.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info13.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info07.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info509Cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info157Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info530B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info109.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info121.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info135.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info505Cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info511D.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info196Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info119.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info131.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info125.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info03.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info17.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info521.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info524se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info16.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info02.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info507Cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info124.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info130.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info118.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info511A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info159cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info511C.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info511Dse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info126.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info132.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info526se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info14.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info28.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info522.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info507Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info523.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info502se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info29.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info01.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info15.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info133.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info127.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info511B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info121Bse-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info121Bs-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info511Cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info140.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info154.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info168.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info183.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info521se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info148se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info222.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info17se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info505Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info189b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info166b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info196.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info182.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info169.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info509Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info155.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info141.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info07Bspanish2.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info108Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info157.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info143.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info194.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info180.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info108Cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info221.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info209.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info523se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info208.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info220.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info189a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info181.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info166a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info195.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info142.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info156.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info511Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info11se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info527se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info152.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info146.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info191.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info185.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info511Ese.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info173se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info218.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info159bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info157se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info219.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info196Ase.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info184.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info190.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info147.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info153.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/Info13Bspanish2.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info503se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info501se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info179.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info145.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info151.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info186.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info192.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info196Cse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info193.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info187.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info150.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info144.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info507Bse.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info178.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/information/info525se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/gf/GF_ImprovedService_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/gf/GF_Kindness_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/gf/GF_Availibility_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/gf/GF_40thAnniversary_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/gf/GF_Thanks_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num27se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num25se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num49.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num23s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num29(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num25(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num60.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num48.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num58.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num23se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num22se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num22s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num21se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num27(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num59.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num29se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num28se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num23se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num29.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num01.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num15.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num31(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num24se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num23(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num24se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num25se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num20s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num30s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num14.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num28.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num16.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num02.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num29s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num26se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num03.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num17.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num22se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num13.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num07.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num28s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num06.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num12.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num21(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num04.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num10.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num38.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num20se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num39.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num11.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num05.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num21s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num28(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num08.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num20.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num34.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num24(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num24s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num35.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num21.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num09.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num37.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num23.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num20se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num21se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num22.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num36.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num32.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num26.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num27.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num33.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num26(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num25.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num31.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num19.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num25s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num28se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num18.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num30.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num24.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num43.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num57.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num56.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num42.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num30se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num27s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num54.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num40.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num30(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num22(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num41.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num55.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num51.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num45.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num26s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num30se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num19s(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/Num20(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num29se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num44.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num50.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num46.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num52.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num27se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num26se(1).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num53.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/numbers/num47.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/bc/BC_Thanks_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/bc/BC_Safety_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/big tex sign on/off/BT_40thAnniversary_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/big tex sign on/off/BT_Thanks_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/big tex sign on/off/BT_Kindness_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/big tex sign on/off/BT_Cleaning_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/EB_BdayBash2_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/EB_SafteyDoSomething_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/EB_SafteyDoSomething_Jan23.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/GF_GetTimeBack_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/EB_Thanks_Jan23.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/EB_SafteyGoPass_Jan23.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/EB_LessTravelTime_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/NL_GetTimeBack_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/NewBusNetwork1-27gennyThroughFeb6_JE.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/EB_Thanks_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/NewBusNetwork1-27gennyFeb7-Feb21_JE.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/eb/CITYLINE-BUSH STATION_CITYLINEBUSH.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message526.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message136-Victory.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message132_ORIGINAL.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message122.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message136.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD101b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSF102.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD101c.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message123.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageINWOOD-LOVE FIELD STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message525.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD101a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message140a_-_Orig.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message135.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message121.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message109.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSF101.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message114b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message104s-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message108.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message120.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message134.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message118.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message130.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message124.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message125.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message131.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message119.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message135a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message521.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message523.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message127.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message133.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message132.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message126.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message139a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message140_old_version_1.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message140_old_version_1_not_including_NO_SUNDAY.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message104c.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message196.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message141.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD107a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message155.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message140---INCLUDES_No_TRE_Sunday.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message168.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message154.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message140.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message104b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message163s-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message162s-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message140b_INCLUDES_no_Sun_msg.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message156.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD107b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message618.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message157.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD107c.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message104e.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message137s-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message136s-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message153.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD106c.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD501C.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD501B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD106b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message152.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message581.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message104d.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message140_old_version_1_-_Orig.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message150.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD501A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message168B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message151.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD106a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message623.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD05min.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message160.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message140---does_NOT_include_No_TRE_Sunday.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD502A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD105a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message161.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message159s-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message940.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message203.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message163.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD502C.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD502B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message162.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD105b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message138s-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message166.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD104b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message167.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD104c.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message104bs-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message136-Union.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message159.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD104a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message165.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message616.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message164.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message158.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD10min.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message103.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message117.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD103c.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageCP103.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageCP102.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message116.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD103b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message102.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message135s-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message114.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message128.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageCP101.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message129.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message101.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD103a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message115.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message136a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message160s-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message161s-alt.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message139.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message111.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD102a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message105.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageCP105.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageCP104.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message104.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message110.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message132_Orginal.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message106.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD102b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message112.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageCP106.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message113.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/message107.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/message/messageSD102c.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc109.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc108.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc118.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc100.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc114.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc115.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc101.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc117.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc103.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc102.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc116.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc112.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc106.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc107.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc113.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc105.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc111.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc110.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/tc104.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/tc/PLATCP6.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min39.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min25se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min11.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min05.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min04.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min10.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min38.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min06.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min12.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min13.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min07.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min27se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min03.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min17.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min23se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min16.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min02.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min14.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min28.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min21se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min29.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min01.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min15.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min26se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min59.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min24se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min58.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min60.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min48.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min49.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min20se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min22se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min53.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min47.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min46.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min52.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min44.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min50.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min51.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min45.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min41.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min55.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min28se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min54.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min40.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min56.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min42.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min43.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min57.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min18.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min30.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min24.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min25.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min31.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min19.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min27.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min33.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min32.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min26.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min22.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min36.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min37.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min23.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min35.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min21.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min09.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min30se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min08.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/Min20.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min34.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/minutes/min29se.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/clean/EB_Cleanliness_E.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/clean/EB_CleaningRide_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/clean/EB_Cleanliness_C.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/clean/clean01.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN22.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008123.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008137.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008122.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN23.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN21.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN09.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008134.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008120.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008108.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008109.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008121.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008135.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN08.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN20.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN18.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN30.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN24.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008119.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008125.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008165A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008124.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008130.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008118.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN25.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN19.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN27.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008126.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008132.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008165B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008165C.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008133.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008127.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN26.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008140.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008154.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00872.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00899.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008155.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008141.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008157.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008143.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008107_.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00871.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008142.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008156.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008152.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008146.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00873B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00875.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00874.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008147.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008153.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008145.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008151.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00876.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00877.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008150.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008144.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008161.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008149.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00891.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00880ALT.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008148.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008160.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008162.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00892.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00879.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00878.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00893.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008163.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00897.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00883.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00882.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00896.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008158.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008164.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00894.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00895.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008165.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008159.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN03.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN17.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008102.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008116.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008117.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008103.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN16.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN02.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN14.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN00.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN28.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008115.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008101.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008129.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008128.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008114.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN29.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN01.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN15.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN11.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN05.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008110.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008104.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008105.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008111.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN04.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN10.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN06.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN12.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008113.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008112.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CA008106.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN13.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/customer announcements/CAN07.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat12.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat06.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat116.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat102.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat103.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat117.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat07.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat13.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat70a.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat05.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat11.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat39.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat129.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat101.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat115.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat114.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat128.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat38.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat10.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat04.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat28.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat14.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat104.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat110.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat138.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat139.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat111.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat105.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat15.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat01.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat29.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat17.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat03.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat113.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat107.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat106.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat112.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat02.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat16.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/State_Fair_Ad.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat203.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat217.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat71.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat65.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat59.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat149.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat175.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat161.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat160.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat174.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat148.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat58.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat403A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat64.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat70.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat216.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat202.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat228.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat214.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat200.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat66.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat72.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat162.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat176.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat189.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat188.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat177.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat163.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat403B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat73.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat67.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat201.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat215.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat229.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat211.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat205.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat402B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat63.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat77.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat167.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat173.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat198.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat199.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat172.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat166.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat76.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat62.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat204.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat210.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat206.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat212.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat48.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat402A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat74.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat60.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat170.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat164.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat158.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat159.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat165.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat171.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat61.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat75.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat49.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat213.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat207.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat222.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat50.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat44.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat401A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat78.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat168.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat159b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat154.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat140.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat197.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat183.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat182.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat196.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat141.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat155.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat159c.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat169.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat45.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat51.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat223.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat209.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat221.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat47.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat53.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat401b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat143.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat157.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat180.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat194.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat195.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat181.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat156.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat142.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat52.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat46.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat220.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat208.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat138b.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat230.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat224.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat218.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat42.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat56.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat146.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat152.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat185.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat191.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat184.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat153.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat147.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat57.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat43.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat219.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat225.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat231.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat227.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat69.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat55.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat41.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat151.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat145.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat179.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat192.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat186.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat187.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat193.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat178.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat144.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat150.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat40.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat54.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat68.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat232.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat226.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat33.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat27.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat137.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat123.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat122.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat136.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat190B.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat26.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat32.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat24.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat30.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat18.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat108.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat120.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat134.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat135.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat121.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat109.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat190A.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat19.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat31.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat25.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat09.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat21.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat35.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat125.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat131.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat119.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat118.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat130.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat124.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat34.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat20.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat08.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat36.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat22.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat132.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat126.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat127.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/stat133.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat23.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/stat/Stat37.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dv/DV108.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dv/DV136.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dv/DV122.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dv/DV101.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/Track Replacement Announcements/tx800018.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/Track Replacement Announcements/tx800017.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/Track Replacement Announcements/tx800014.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/Track Replacement Announcements/tx800001.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/Track Replacement Announcements/tx800015.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dfw/Dfw1073.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dfw/Dfw1074.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dfw/Dfw1051.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dfw/Dfw1052.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dfw/Dfw1053.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dfw/Dfw1054.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message103s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info145s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num32s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message154s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min49s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info112s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info155-As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info104s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info511As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info142-Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min08s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message115s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num24s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info503s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info153s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info201s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info128s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info20s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info189Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min24s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message139s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info108Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num08s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/BELL STATIONthis.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info190s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min32s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info169s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info186s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info217s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message482s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info101-Es.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num49s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info508As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info36s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info149s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min12s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info16s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD106Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min45s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message158s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min53s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info221s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/CENTREPORT STATIONthis.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num28s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message119s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min04s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info124s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num53s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message162s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num04s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info523s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info173s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info196Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message135s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min28s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num12s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/DOWNTOWN IRVING-HERITAGE CROSSING STATIONthis.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message123s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num45s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info132s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info102as.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info506Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageCP102s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Safe01s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageCP103s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num44s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info133s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info506Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message122s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info164s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info216-Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num13s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min29s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num05s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info522s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info172s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info196Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info216Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message163s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info125s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num52s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min05s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message118s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info192-As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num29s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min52s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info220s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info01s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info109s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message159s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min44s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info17s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD106Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD502As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min13s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/EBJ UNION STATIONthis.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info148s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info101-Ds.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num48s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info37s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message483s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info168s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info187s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min33s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info108Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num09s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message104bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info191s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info165As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message138s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min25s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info129s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info21s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info200s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num25s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info502s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info152s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info142-Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message114s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min09s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info105s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info113s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min48s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message155s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info144s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info111Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num33s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message102s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num38s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSF101s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message109s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min14s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info10s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info193-Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info118s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min43s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info06s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD107Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min55s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info188-As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info159s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min02s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num55s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info103as.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info507Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info216Ds.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info525s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info175s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num02s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/line107s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message133s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num14s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info163s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message125s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min38s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info134s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num43s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Safe06s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageCP104s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min18s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message105s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num34s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info143s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num0s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message152s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info114s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info510As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min59s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info505Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info142-Ds.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message113s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num22s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info207s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message168s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info509As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num59s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/T&P STATIONthis.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info156-Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info26s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info17Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min22s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message104es.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info179s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min34s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message129s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD101Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num18s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info180s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message484s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info211s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info138s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info101-Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info30s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info101-Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info139s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info31s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message485s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info210s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD101Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num19s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info181s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message128s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min35s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message104ds.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/WEST IRVING STATIONthis.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info178s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min23s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD105Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num58s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD501As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info27s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info206s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info504s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info154s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num23s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message112s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info505Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info115s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message153s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num35s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message104s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min19s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageCP105s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info135s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num42s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min39s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message124s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num15s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info162s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info197bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message132s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info524s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info174s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num03s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num54s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info123s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info507Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min03s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info158s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min54s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info07s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD107Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min42s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info11s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info119s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min15s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message108s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num39s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageCP106s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Safe04s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num41s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info136s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message127s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info197as.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info161s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num16s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message131s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info198s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num00s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info527s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info157As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info177s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info209s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info28s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info120s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num57s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info188-Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min57s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD107As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info04s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min41s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/MEDICAL-MARKET CTR STATIONthis.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info12s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/32834this.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min16s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info166bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info32s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info101-As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info213s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info182s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message140as.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message168Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min36s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info121Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info194s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info159Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min20s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info24s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info509Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD501Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD105As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info205s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num20s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info157s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message111s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info511Es.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info08s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info510Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info116s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message150s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info141s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num36s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message107s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message106s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info140s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num37s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message151s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/UNT_DALLAS.wav'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num60s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info510Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info117s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info511Ds.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info505As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info09s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message110s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num21s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info156s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info204s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info25s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info509Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD501Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min21s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/line108s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info195s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info159cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min37s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info183s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message203s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD101As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info212s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min60s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message114bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info33s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSF102s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD103As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min17s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info193-As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info13s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min40s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info05s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min56s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info188-Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min01s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info507As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info29s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info103Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info121s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num56s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info208s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info199s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/28251this.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num01s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info526s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info176s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message130s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info160s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num17s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/32835this.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message126s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num40s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info137s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/line515s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/10this.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Safe05s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info34s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info508Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD104As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info215s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/TREN_DE_EVENTOS_ESPECIALES.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info184s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min30s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message139as.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info108As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min26s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info120Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info22s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info203s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info501s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info151s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num26s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message117s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info511Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info106s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message140s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info110s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info18s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/RICHLAND HILLS STATIONthis.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message156s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num30s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info147s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info111As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message101s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info219s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Safe02s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info130s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num47s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message121s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num10s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info216-As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info167s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/line103s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message137s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info196As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info521s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info171s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num06s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message160s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num51s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info126s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min06s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info192-Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min51s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info02s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min47s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD502Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD106As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info14s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min10s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min11s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD502Cs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info15s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min46s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info03s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info222s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min50s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info188-Ds.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageSD102As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Min07s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num50s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info127s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message161s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num07s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/line102s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message136s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Num11s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message120s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info506As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info102Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info39s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info131s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num46s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info218s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/messageCP101s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Safe03s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num31s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info146s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message157s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info19s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/VICTORY STATIONthis.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info511Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info107s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/message116s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info142-As.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info150s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/num27s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info202s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/clean01s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info23s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min27s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/min31s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info185s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info214s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/Info35s.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/spanish/info508Bs.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dl/DL_LessTravelTime_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dl/DL_ImprovedService_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dl/REDline.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dl/DL_40thAnniversary_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dl/DL_Thanks_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dl/DL_GetTimeBack_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg801001.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR DALLAS UNION STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/TRAIN WESTBOUND FOR FORT WORTH T&P STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR RICHLAND HILLS STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg801002.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg801003.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/TRAIN EASTBOUND FOR UNION STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg801007.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR BELL STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/BELL STATIONnext.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/TRAIN WESTBOUND FOR.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg801006.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg801012.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/INBOUND.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg800132.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/RT008231.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/DOWNTOWN IRVING-HERITAGE CROSSING STATIONnext.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg801004.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR FORT WORTH INTERMODAL TRANSPORTATION CENTER.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/BELL STATION_OLD_VERSION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR RICHLAND HILLS STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/CENTREPORT STATIONnext.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg801011.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg801005.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg800131.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg800234.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/28251_OLD_VERSION1.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR WEST IRVING STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR BELL STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR DOWNTOWN IRVING-HERITAGE CROSSING STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/12thstreet_Aug26Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR CENTREPORT-DFW AIRPORT STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg800184.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR FORT WORTH T&P STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg800200.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/10next.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/28251next.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/CENTREPORT STATION (2).mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR CENTREPORT-DFW STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/MEDICAL-MARKET CTR STATIONnext.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/BELL STATION_OLD_NAME.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/32834next.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR VICTORY STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/mg800199.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/TRAIN EASTBOUND FOR CENTREPORT-DFW AIRPORT.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR MEDICAL-MARKET CENTER STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR CENTREPORT-DFW STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/TRAIN IS EASTBOUND FOR.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/CENTREPORT STATION_OLD_VERSION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR MEDICAL-MARKET CENTER STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/THE NEXT STATION IS CENTREPORT-DFW AIRPORT STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/RT008229.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/RT008201.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/TRE.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/28251_WRONG.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/DOWNTOWN IRVING-HERITAGE CROSSING STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/28251.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/MEDICAL-MARKET CTR STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR VICTORY STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND FOR FORT WORTH INTERMODAL TRANSPORTATION CENTER.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR CENTREPORT-DFW AIRPORT STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/RT008213.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/BELL STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/OUTBOUND.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR WEST IRVING STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/CENTREPORT STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/WESTBOUND.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/TRAIN WESTBOUND FOR CENTREPORT-DFW AIRPORT STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/TRAIN EASTBOUND FOR DALLAS UNION STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/RT008211.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/TRE/EASTBOUND FOR DOWNTOWN IRVING-HERITAGE CROSSING STATION.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/cc/CC_40thAnniversary_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/cc/CC_GoPass_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/cc/NL_BetterAccess_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/cc/DL_BetterAccess_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/cc/CC_Safety_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/cc/EB_BetterAccess_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/cc/CC_Hiring_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dart is back/BJ_Thanks_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dart is back/BJ_Thanks4Riding_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dart is back/BJ_Saftey_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dart is back/BJ_LessTravelTime_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dart is back/BJ_ImprovedService_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dart is back/BJ_GetTimeBack_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dart is back/BJ_Kindness_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dart is back/BJ_40thAnniversary_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dart is back/BJ_BetterAccess_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/dart is back/BJ_Cleanliness_Rail.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/event/Event_1_Clip_3.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/event/Event_1_Clip_2.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/event/SpecialEventTrain.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/event/Event_1_Clip_1.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/event/Event_2_Track_4.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/event/Event_2_Track_2.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/event/Event_2_Track_3.mp3'
+timestamp: 2024-05-01 20:33:15
+file 'DART/event/Event_2_Track_1.mp3'
+timestamp: 2024-05-01 20:33:15
